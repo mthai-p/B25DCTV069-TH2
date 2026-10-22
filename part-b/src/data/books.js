@@ -1,0 +1,89 @@
+// Dữ liệu sách (chưa gọi API)
+const books = [
+  {
+    "id": 1,
+    "title": "Dế Mèn phiêu lưu ký",
+    "author": "Tô Hoài",
+    "genre": "Thiếu nhi",
+    "year": 1941
+  },
+  {
+    "id": 2,
+    "title": "Tuổi thơ dữ dội",
+    "author": "Phùng Quán",
+    "genre": "Tiểu thuyết",
+    "year": 1988
+  },
+  {
+    "id": 3,
+    "title": "Số đỏ",
+    "author": "Vũ Trọng Phụng",
+    "genre": "Tiểu thuyết",
+    "year": 1936
+  },
+  {
+    "id": 4,
+    "title": "Nhà giả kim",
+    "author": "Paulo Coelho",
+    "genre": "Tiểu thuyết",
+    "year": 1988
+  },
+  {
+    "id": 5,
+    "title": "Lược sử thời gian",
+    "author": "Stephen Hawking",
+    "genre": "Khoa học",
+    "year": 1988
+  },
+  {
+    "id": 6,
+    "title": "Vũ trụ trong vỏ hạt dẻ",
+    "author": "Stephen Hawking",
+    "genre": "Khoa học",
+    "year": 2001
+  },
+  {
+    "id": 7,
+    "title": "Sapiens: Lược sử loài người",
+    "author": "Yuval Noah Harari",
+    "genre": "Lịch sử",
+    "year": 2011
+  },
+  {
+    "id": 8,
+    "title": "Đại Việt sử ký toàn thư",
+    "author": "Ngô Sĩ Liên",
+    "genre": "Lịch sử",
+    "year": 1479
+  },
+  {
+    "id": 9,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "genre": "Công nghệ",
+    "year": 2008
+  },
+  {
+    "id": 10,
+    "title": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke",
+    "genre": "Công nghệ",
+    "year": 2011
+  },
+  {
+    "id": 11,
+    "title": "Cosmos",
+    "author": "Carl Sagan",
+    "genre": "Khoa học",
+    "year": 1980
+  },
+  {
+    "id": 12,
+    "title": "Totto-chan bên cửa sổ",
+    "author": "Tetsuko Kuroyanagi",
+    "genre": "Thiếu nhi",
+    "year": 1981
+  }
+];
+
+export default books;
